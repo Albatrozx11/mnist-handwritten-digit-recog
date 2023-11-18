@@ -28,6 +28,6 @@ This repository contains the code for a Handwritten Digit Recognition model usin
 
 This project is licensed under the [MIT License](LICENSE).
 
-Feel free to explore and contribute to this project. If you have any questions or suggestions, please open an issue or reach out to [Your Name].
+Feel free to explore and contribute to this project. If you have any questions or suggestions, please open an issue or reach out to adithyanayithala@gmail.com
 
 Happy coding!
