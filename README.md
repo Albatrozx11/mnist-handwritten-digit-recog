@@ -6,8 +6,8 @@ This repository contains the code for a Handwritten Digit Recognition model usin
 
 - `mnist_train.ipynb`: Jupyter Notebook for training the MNIST digit recognition model.
 - `final_model.h5`: The saved model after training.
-- `predict.py`: Python file with a function for predicting digit images using the trained model.
-- `gradio_interface.py`: Gradio interface for testing the model interactively.
+- `main.py`: Python file with a function for predicting digit images using the trained model.
+- `gradio_interface`: Gradio interface for testing the model interactively.
 - `sample_image.png`: A sample digit image for testing purposes.
 
 ## Usage
